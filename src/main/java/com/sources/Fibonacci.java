@@ -1,4 +1,4 @@
-package sources;
+package com.sources;
 
 public class Fibonacci {
 

@@ -1,8 +1,7 @@
-package sources;
+package com.sources;
 
 import org.junit.Before;
 import org.junit.Test;
-import sources.Fibonacci;
 
 import static java.lang.String.format;
 import static org.junit.Assert.assertEquals;

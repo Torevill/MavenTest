@@ -1,4 +1,4 @@
-package sources;
+package com.sources;
 
 import org.junit.*;
 
@@ -7,11 +7,11 @@ import static org.junit.Assert.assertTrue;
 public class SolutionTest {
     @Before
     public void showStart(){
-        System.out.println("Testing");
+        System.out.println("Testing. Come here, you @%^$%!!!");
     }
     @After
     public void showEnd(){
-        System.out.println("End testing");
+        System.out.println("End testing. Hooray!");
     }
     @Test
     public void testZero(){

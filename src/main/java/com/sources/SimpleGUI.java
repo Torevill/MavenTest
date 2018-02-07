@@ -1,4 +1,4 @@
-package sources;
+package com.sources;
 
 import java.awt.*;
 import java.awt.event.*;
