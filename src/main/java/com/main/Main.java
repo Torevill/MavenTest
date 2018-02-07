@@ -7,5 +7,6 @@ public class Main {
         SimpleGUI gui = new SimpleGUI();
         gui.setVisible(true);
         System.out.println("End");
+        System.out.println("And I am another test branch");
     }
 }
