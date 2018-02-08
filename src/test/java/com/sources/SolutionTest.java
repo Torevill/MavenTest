@@ -17,4 +17,12 @@ public class SolutionTest {
     public void testZero(){
         assertTrue(Solution.Fibonacci(0) == 0);
     }
+
+    //some new reaaaaaaaly good tests
+
+    //and some more logic
+
+    //oh how cool I am!
+
+    //oooooh, how strong my paws are!!!
 }
